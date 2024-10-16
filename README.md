@@ -34,3 +34,5 @@ For more information about TechX Society:
 - Address: 209 South Road, Mailbox #408, Chapel Hill, NC, 27514
 
 Join us in our journey to excellence in technology and innovation!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UNC-TechX&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
